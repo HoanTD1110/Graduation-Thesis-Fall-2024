@@ -1,0 +1,165 @@
+Nắm rõ nội dung về dịch vụ để giải đáp thắc mắc, giải quyết khiếu nại cho kênh và cho khách hàng.
+
+Phòng Tài chính 
+
+Thực hiện các nghiệp vụ Tài chính, giao dịch phát sinh trong quá trình triển khai dịch vụ.
+
+Phòng Khai thác dịch vụ
+
+Phối hợp tiếp nhận bàn giao và vận hành sản phẩm.
+
+Trên đây là công văn thông báo triển khai dịch vụ Vay tiêu dùng nhanh FastMoney. Kính yêu cầu các đơn vị nghiêm túc triển khai./. 
+
+Nơi nhận:                                                    
+
+Như trên (để t/h); 
+
+Lưu: VT, TTKD. Linh01.
+
+KT.TỔNG GIÁM ĐỐC
+
+PHÓ TỔNG GIÁM ĐỐC
+
+Không áp dụng cho KH trong blacklist của Viettel Money.
+
+         Không đồng thời áp dụng với CTKM khác trên cùng 1 giao dịch tại 1 thời điểm.
+
+        Một khách hàng được nhận tối đa 05 lần khuyến mại trong thời gian diễn ra chương trình.
+
+II. TỔ CHỨC THỰC HIỆN
+
+        Trung tâm Sản phẩm:
+
+Chủ trì việc triển khai CTKM, báo cáo Ban TGĐ tiến độ và hiệu quả triển khai
+
+        Trung tâm Bán hàng:
+
+Phối hợp xây dựng và triển khai kế hoạch truyền thông, kế hoạch bán hàng cho Chương trình khuyến mại trên các kênh (quảng cáo, ứng dụng mạng xã hội…) để đạt hiệu quả.
+
+        Phòng Chăm sóc khách hàng: 
+
+        Cập nhật các nội dung về CTKM để giải đáp cho khách hàng khi có khiếu nại.
+
+        Hỗ trợ giải quyết các vướng mắc phát sinh
+
+        Phòng Quảng cáo Truyền thông:
+
+Phối hợp xây dựng và triển khai kế hoạch truyền thông cho Chương trình khuyến mại trên các kênh Viettel Money và kênh nội bộ để đạt hiệu quả.
+
+
+
+        Trên đây là thông tin về triển khai chương trình khuyến mại Hoàn tiền cho khách hàng mua bảo hiểm ô tô Bảo Long trên Viettel Money.
+
+Kính chuyển các đơn vị nhận thông tin và phối hợp triển khai để đạt hiệu quả.
+
+TRUNG TÂM SẢN PHẨM
+
+Nơi nhận:
+
+Như trên (để t/h);
+
+P.CSKH (để t/h);
+
+P.QCTT (để t/h) ;
+
+TTBH (để t/h) ;
+
+Lưu: VDS, TTSP; Quynh01.
+
+2
+
+Vai trò của VDS: cung cấp nền tảng công nghệ bao gồm những tính năng chính như đăng ký khoản vay, giải ngân, thanh toán khoản vay; hỗ trợ nhắc thanh toán nợ, cung cấp dịch vụ tiếp thị, quảng cáo về sản phẩm trên nền tảng công nghệ của VDS và cung cấp dịch vụ chấm điểm đánh giá tín dụng và gian lận.
+
+Vai trò của đối tác: Chịu trách nghiệm xây dựng hệ thống, xây dựng chính sách sản phẩm, tìm kiếm và thẩm định khách hàng; là đơn vị cho vay, chịu trách nghiệm giải ngân khoản vay khi khách hàng đủ điều kiện vay.
+
+Đối tượng áp dụng
+
+Độ tuổi: từ 20 - 50 tuổi tại thời điểm Khách hàng nộp hồ sơ vay (tuổi Khách hàng làm tròn theo năm);
+
+Khách hàng có thuê bao Viettel chính chủ trên 03 tháng hoặc Khách hàng đã sử dụng sim Viettel và đã được định danh tại Viettel từ 03 tháng trở lên;
+
+Thỏa mãn các điều kiện điểm tín dụng và các điều kiện khác theo quy định đối tác trong từng thời kỳ;
+
+Chi tiết tại phụ lục 01 đính kèm.
+
+Quy định về chính sách sản phẩm
+
+-       Hạn mức vay: Từ 5 triệu - 20 triệu;
+
+Kì hạn vay: 6 tháng - 12 tháng;
+
+Lãi suất vay vốn trong hạn: 30%/ năm;
+
+Phí bảo hiểm: Chưa có;
+
+Phí dịch vụ: 0.075-0.08%*giá trị khoản vay/ngày. Phí dịch vụ này có thể được điều chỉnh theo từng thời kỳ theo thỏa thuận giữa đối tác và khách hàng;
+
+Phí tất toán trước hạn: 5% * dư nợ gốc còn lại;
+
+Lãi suất quá hạn: 150% *dư nợ quá hạn;
+
+Khách hàng cần thanh toán khoản vay quá hạn (theo hình thức thanh toán khoản vay thông thường).  Số tiền khi thanh toán khi quá hạn: Nợ gốc + Lãi trong hạn + Lãi quá hạn + Phí, như đã quy định trong Hợp đồng tín dụng
+
+2.5
+
+Khách hàng có thể đăng ký vay nhiều lần không?
+
+Khách hàng chỉ có thể vay lại sau khi tất toán khoản vay trước đó. Sau khi khoản vay được cập nhật trạng thái "Đã tất toán", bạn sẽ thấy nút "Đăng ký vay". Trong trường hợp không thấy nút "Tạo khoản vay", đồng nghĩa với việc bạn chưa thể vay tiếp do chưa đủ điều kiện, mong bạn thông cảm và quay lại sau. Hiện tại Fast Money chưa hỗ trợ vay nhiều gói cùng lúc.
+
+2.6
+
+Khách hàng nhận giải ngân như thế nào
+
+Sau khi khoản vay được phê duyệt, khách hàng được giải ngân số tiền vay vào tài khoản Viettelpay của mình
+
+Thời gian giải ngân: Dưới 5 phút kể từ khi khách hàng đăng ký vay thành công. Trong trường hợp xảy ra lỗi hệ thống và khách hàng nhận giải ngân chậm/không nhận được giải ngân, vui lòng tra cứu mã lỗi và phối hợp với TT PTSP để hướng dẫn khách hàng hoặc hướng dẫn khách hàng liên hệ hotline 1900 38398 để được hỗ trợ
+
+III
+
+Chính sách lãi phí
+
+3.1
+
+Chính sách lãi suất và phí như thế nào?
+
+- Lãi suất: 39.5%/ năm
+
+- Miễn phí đăng ký
+
+- Phí dịch vụ: Thay đổi theo kỳ hạn và giá trị khoản vay. Phí này dược đối tác thông báo trong giao diện trên app và email thông báo khi vay thành công và đến hạn thanh toán
+
+3.2
+
+Lãi chậm trả của khoản vay hạn mức được tính như nào?
+
+Vay tiêu dùng nhanh FastMoney đang cung cấp các gói vay từ 5 đến 20 triệu với kỳ hạn từ 6 đến 12 cho khách hàng. Số tiền cho vay tối đa/tối thiểu và thời hạn cho vay phụ thuộc vào nhu cầu, đề nghị vay của bạn và quyết định phê duyệt của Tổ chức tín dụng cho vay
+
+2.2
+
+Khách hàng có thể thanh toán khoản vay như thế nào?
+
+        Để thanh toán khoản vay
+
+        - Bước 1: Mở Vay tiêu dùng nhanh trên Viettel Money, chọn khoản vay cần thanh toán và bấm chọn Thanh toán khoản vay
+
+        - Bước 2: Nhập số tiền muốn thanh toán
+
+        - Bước 3: Xác nhận và thanh toán khoản vay
+
+2.3
+
+Khách hàng có thể có thể thanh toán khoản vay nhiều lần không?
+
+Khách hàng có thể thanh toán nhiều lần cho 1 khoản vay ở bất kỳ thời điểm nào trong thời hạn vay.
+
+2.4
+
+Khách hàng có thể tất toán khoản vay trước hạn không?
+
+        Khách hàng có thể tất toán (thanh toán toàn bộ dư nợ của khoản vay) bất cứ lúc nào. Chi phí  khoản vay trước hạn sẽ được quy định trong Hợp đồng tín dụng.
+
+2.4
+
+Khách hàng quá hạn thanh toán phải làm gì? 
+
+Trong trường hợp khách hàng không thanh toán toàn bộ hoặc chỉ thanh toán một phần khoản nợ gốc và/hoặc lãi theo quy định tại Hợp Đồng Tín Dụng chậm nhất vào ngày đến hạn thanh toán, thì vào ngày tiếp theo của ngày đến hạn thanh toán đó, khoản nợ gốc và/hoặc lãi đó sẽ bị chuyển thành khoản nợ quá hạn.
