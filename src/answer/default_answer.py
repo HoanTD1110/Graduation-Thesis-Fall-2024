@@ -17,7 +17,7 @@ from tqdm.notebook import tqdm
 
 CUR_DIR = os.getcwd()
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = ''
 
 client = chromadb.PersistentClient(path=os.path.join(CUR_DIR,"chromadb/"))
 llm = ChatOpenAI(model_name="gpt-3.5-turbo-16k-0613")
